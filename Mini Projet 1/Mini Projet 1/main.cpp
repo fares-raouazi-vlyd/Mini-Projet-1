@@ -1,11 +1,13 @@
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
+#include <raylib.h>
 int GenerateRandomNumber(int min, int max)
 {
 	srand(time(NULL));
 
-	int random = rand() % (max+1);
+	int random = rand() % (max-min) + min;
+	std::cout << random << std::endl;
 	return random;
 }
 int GetPlayerGuess()
@@ -61,7 +63,7 @@ int CalculateScore(int attemptsLeft, int difficulty)
 	switch (difficulty)
 	{
 	case 8:
-		score = attemptsLeft * 30;
+		score = attemptsLeft * 10;
 		return score;
 		break;
 	case 5:
@@ -69,7 +71,7 @@ int CalculateScore(int attemptsLeft, int difficulty)
 		return score;
 		break;
 	case 3:
-		score = attemptsLeft * 10;
+		score = attemptsLeft * 30;
 		return score;
 		break;
 	default:
@@ -89,7 +91,7 @@ int PlayGame()
 {
 	int tentative = ChooseDifficulty();
 	std::cout << "Nombre de tentatives : " << tentative << std::endl;
-	int random = GenerateRandomNumber(0,100);
+	int random = GenerateRandomNumber(0,50);
 	for (int i = tentative; i > 0; i--)
 	{
 		switch (CheckGuess(random, GetPlayerGuess()))

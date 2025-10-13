@@ -1,10 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fraouazi\\Documents\\GitHub\\Mini-Projet-1\\Mini Projet 1\\",
+  "WorkspaceRootPath": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Mini-Projet-1\\Mini Projet 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EAEECEB-04CC-4222-9291-BC38DA6F3F39}|Mini Projet 1\\Mini Projet 1.vcxproj|C:\\Users\\fraouazi\\Documents\\GitHub\\Mini-Projet-1\\Mini Projet 1\\Mini Projet 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2EAEECEB-04CC-4222-9291-BC38DA6F3F39}|Mini Projet 1\\Mini Projet 1.vcxproj|C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Mini-Projet-1\\Mini Projet 1\\Mini Projet 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EAEECEB-04CC-4222-9291-BC38DA6F3F39}|Mini Projet 1\\Mini Projet 1.vcxproj|solutionrelative:Mini Projet 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01CD740-2A53-4F35-9D40-7F9034A224F0}|..\\..\\Partie-1-Feuille-3\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\Projet 1 Feuille 3.vcxproj|C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-3\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25097914-D7C9-4BB2-ABE1-60B16D767D91}|..\\..\\Partie-1-Feuille-2\\p1f2\\p1f2.vcxproj|C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-2\\p1f2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA41074-2ECD-473C-B454-DC7D502C8783}|..\\..\\Partie-1-Feuille-1\\p1f1\\p1f1\\p1f1.vcxproj|C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-1\\p1f1\\p1f1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7024395-D443-4FC7-A210-A2A00FE7DC72}|..\\..\\Partie-1\\Projet 1\\Projet 1\\Projet 1.vcxproj|C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1\\Projet 1\\Projet 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -17,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,28 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1\\Projet 1\\Projet 1\\main.cpp",
               "RelativeDocumentMoniker": "..\\..\\Partie-1\\Projet 1\\Projet 1\\main.cpp",
               "ToolTip": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1\\Projet 1\\Projet 1\\main.cpp",
               "RelativeToolTip": "..\\..\\Partie-1\\Projet 1\\Projet 1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-07T07:20:19.425Z",
+              "WhenOpened": "2025-10-07T09:26:40.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-1\\p1f1\\p1f1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Partie-1-Feuille-1\\p1f1\\p1f1\\main.cpp",
+              "ToolTip": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-1\\p1f1\\p1f1\\main.cpp",
+              "RelativeToolTip": "..\\..\\Partie-1-Feuille-1\\p1f1\\p1f1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T09:26:27.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-2\\p1f2\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Partie-1-Feuille-2\\p1f2\\main.cpp",
+              "ToolTip": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-2\\p1f2\\main.cpp",
+              "RelativeToolTip": "..\\..\\Partie-1-Feuille-2\\p1f2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T09:26:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-3\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Partie-1-Feuille-3\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\main.cpp",
+              "ToolTip": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Feuille-3\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\main.cpp",
+              "RelativeToolTip": "..\\..\\Partie-1-Feuille-3\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T09:26:37.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\fraouazi\\Documents\\GitHub\\Mini-Projet-1\\Mini Projet 1\\Mini Projet 1\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Mini-Projet-1\\Mini Projet 1\\Mini Projet 1\\main.cpp",
               "RelativeDocumentMoniker": "Mini Projet 1\\main.cpp",
-              "ToolTip": "C:\\Users\\fraouazi\\Documents\\GitHub\\Mini-Projet-1\\Mini Projet 1\\Mini Projet 1\\main.cpp",
+              "ToolTip": "C:\\Users\\fraouazi\\Documents\\GitHub\\Partie-1-Mini-Projet-1\\Mini Projet 1\\Mini Projet 1\\main.cpp",
               "RelativeToolTip": "Mini Projet 1\\main.cpp",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAF0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-07T07:06:59.195Z",
+              "WhenOpened": "2025-10-07T09:26:49.858Z",
               "EditorCaption": ""
             }
           ]
